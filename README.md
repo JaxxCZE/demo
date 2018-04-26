@@ -1,3 +1,3 @@
 #Demo Project Readme
 
-This is a simple demo file ... . something more
+This is bound to cause trouble!
